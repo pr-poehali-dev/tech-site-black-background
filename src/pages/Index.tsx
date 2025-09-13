@@ -50,7 +50,59 @@ const products: Product[] = [
       ram: "64GB DDR5",
       storage: "2TB NVMe SSD"
     },
+    image: "/img/d60a89b1-3992-4559-850a-ea391bb8976e.jpg"
+  },
+  {
+    id: 5,
+    name: "Budget Gaming PC",
+    price: 80000,
+    category: "computers",
+    specs: {
+      cpu: "AMD Ryzen 5 7600X",
+      gpu: "RTX 4060",
+      ram: "16GB DDR5",
+      storage: "512GB NVMe SSD"
+    },
+    image: "/img/f709b270-ef56-46e9-a38e-d199682e7ad3.jpg"
+  },
+  {
+    id: 6,
+    name: "Mini ITX Beast",
+    price: 150000,
+    category: "computers",
+    specs: {
+      cpu: "Intel i5-13600K",
+      gpu: "RTX 4070",
+      ram: "32GB DDR5",
+      storage: "1TB NVMe SSD"
+    },
+    image: "/img/be458808-a0a9-42ec-9ad6-db4118ab8b79.jpg"
+  },
+  {
+    id: 7,
+    name: "Office PC Basic",
+    price: 45000,
+    category: "computers",
+    specs: {
+      cpu: "Intel i3-13100",
+      gpu: "Integrated UHD 770",
+      ram: "8GB DDR4",
+      storage: "256GB NVMe SSD"
+    },
     image: "/img/fa9eaa09-98c8-4b88-9426-ba2d79af2a3d.jpg"
+  },
+  {
+    id: 8,
+    name: "Streaming PC Pro",
+    price: 160000,
+    category: "computers",
+    specs: {
+      cpu: "AMD Ryzen 7 7800X3D",
+      gpu: "RTX 4070 Ti Super",
+      ram: "32GB DDR5",
+      storage: "2TB NVMe SSD"
+    },
+    image: "/img/d60a89b1-3992-4559-850a-ea391bb8976e.jpg"
   },
   {
     id: 3,
